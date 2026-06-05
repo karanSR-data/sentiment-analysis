@@ -44,7 +44,9 @@ IMDB Movie Reviews Dataset
 Contains labeled reviews:
 Positive
 Negative
+
 🧠 Model Workflows
+
 Load dataset
 Clean and preprocess text
 Convert text → numerical features using TF-IDF
@@ -52,7 +54,9 @@ Train Logistic Regression model
 Evaluate performance
 Save model & vectorizer using pickle
 Use saved model for predictions
+
 🔮 How to Run the Project
+
 1️⃣ Clone repository
 git clone https://github.com/karanSR-data/sentiment-analysis.git
 cd sentiment-analysis

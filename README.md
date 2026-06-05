@@ -44,7 +44,7 @@ IMDB Movie Reviews Dataset
 Contains labeled reviews:
 Positive
 Negative
-🧠 Model Workflow
+🧠 Model Workflows
 Load dataset
 Clean and preprocess text
 Convert text → numerical features using TF-IDF

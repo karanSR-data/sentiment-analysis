@@ -83,14 +83,18 @@ Input: "Worst movie I have ever seen"
 Prediction: Negative 😡
 
 ⚠️ Notes
+
 Dataset file is large (63MB), may trigger GitHub warnings.
 Model files are saved using pickle.
 Ensure all dependencies are installed before running.
+
 📌 Future Improvements
+
 Use Deep Learning (LSTM / BERT)
 Improve accuracy with hyperparameter tuning
 Deploy on HuggingFace / Streamlit Cloud
 Add real-time sentiment dashboard
+
 👨‍💻 Author
 
 Karan Singh Rajput

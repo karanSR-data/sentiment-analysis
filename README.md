@@ -15,6 +15,7 @@ Simple prediction pipeline for new text input
 Web app interface using Flask/Streamlit (if applicable)
 
 📁 Project Structure
+
 Sentiment_Analysis/
 │
 ├── app/

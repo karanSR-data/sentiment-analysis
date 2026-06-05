@@ -1,16 +1,19 @@
 📊 Sentiment Analysis Project
+
 🧠 Overview
 
 This project is a Sentiment Analysis system that classifies movie reviews as Positive or Negative using Machine Learning techniques.
 It uses NLP preprocessing and a Logistic Regression model trained on the IMDB dataset.
 
 🚀 Features
+
 Text preprocessing (cleaning, stopword removal, etc.)
 TF-IDF vectorization for feature extraction
 Logistic Regression model for classification
 Trained on IMDB movie review dataset
 Simple prediction pipeline for new text input
 Web app interface using Flask/Streamlit (if applicable)
+
 📁 Project Structure
 Sentiment_Analysis/
 │
@@ -32,14 +35,18 @@ Sentiment_Analysis/
 │   └── predict.py             # Prediction script
 │
 └── README.md
+
 ⚙️ Tech Stack
+
 Python 🐍
 Pandas & NumPy
 Scikit-learn
 NLP (TF-IDF Vectorizer)
 Logistic Regression
 Flask / Streamlit (for UI if used)
+
 📊 Dataset
+
 IMDB Movie Reviews Dataset
 Contains labeled reviews:
 Positive
@@ -74,6 +81,7 @@ Prediction: Positive 😊
 
 Input: "Worst movie I have ever seen"
 Prediction: Negative 😡
+
 ⚠️ Notes
 Dataset file is large (63MB), may trigger GitHub warnings.
 Model files are saved using pickle.

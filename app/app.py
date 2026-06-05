@@ -10,7 +10,7 @@ vectorizer = joblib.load("../models/tfidf_vectorizer.pkl")
 model = joblib.load("../models/Logistic Regression_model.pkl")
 
 
-# Text Cleaning Function
+# Text Cleaning Functions
 
 def clean_text(text):
     text = text.lower()
